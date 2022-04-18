@@ -1,2 +1,2 @@
 # Kubernetes_sa_create
-Bash scripts for create sa in Kuberntetes cluster
+Bash scripts for create sa with ClusterAdmin role in Kuberntetes cluster
